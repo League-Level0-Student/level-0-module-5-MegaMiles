@@ -49,13 +49,27 @@ public static void main(String[] args) {
 	bob5.setX(220);
 	Robot bob6 = new Robot();
 	bob6.setX(221);
+	Robot bob7 = new Robot();
+	bob7.setX(221);
+	Robot bob8 = new Robot();
+	bob8.setX(221);
 	
 
 
 
-
-
-
+miles.setSpeed(1000000000);
+	miles.move(100);
+	miles.penDown();
+for (int i = 0; i < 1000000000; i++) {
+for (int j = 0; j < 1000000000; j++) {
+for (int l = 0; l < 1000000000; l++) {
+for (int k = 0; k < 1000000000; k++) {
+	miles.turn(1);
+	miles.move(40);	
+}	
+}		
+}		
+}
 
 
 
