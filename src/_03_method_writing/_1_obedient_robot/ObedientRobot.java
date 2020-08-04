@@ -91,15 +91,13 @@ bob.penUp();
 bob.move(100000);
 }
 static void drawHexagon(){
-
-	
-	
-	
-	
-	
-	
+	for (int i = 0; i < 6; i++) {
+bob.turn(60);
+bob.move(100);	
+}	
 }
-
+int task = JOptionPane.showOptionDialog(null, "Question", "Title", 0, JOptionPane.INFORMATION_MESSAGE, null,
+		new String[] { "Button1", "Button2", "Button3" }, null);
 
 
 
