@@ -11,6 +11,8 @@ static String petName;
 		// 1. Ask the user what kind of pet they want to buy, and store their answer in a variable
 		 petName = JOptionPane.showInputDialog(null,"What Pet do you want");
 		// 7. REPEAT steps 3 - 6 enough times to make your pet happy!
+		for (int i = 0; i < 20; i++) {
+			
 		
 			// 3. Use showOptionDialog to ask the user what they want to do to make their pet happy
 			//    (eg: cuddle, food, water, take a walk, groom, clean up poop).
@@ -34,9 +36,10 @@ feedIt();
 }
 			// 6. If you determine the happiness level is large enough, tell the
 			//    user that he loves his pet and use break; to exit for loop.
-if (happinessLevel == 10) {
+if (happinessLevel > 10) {
 	JOptionPane.showMessageDialog(null, "You definitly love your " + petName + " a lot");
-}
+	break;
+}}
 	
 
 	// 4. Create methods to handle each of your user selections.
