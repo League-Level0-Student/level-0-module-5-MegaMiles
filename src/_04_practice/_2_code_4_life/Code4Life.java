@@ -25,7 +25,7 @@ if (codee <= 2) {
 	// 3. If it is greater than or equal to 3 AND less than or equal to 5, tell them
 	// they're a Code Ninja
 else if (codee >= 3 && codee <= 5) {
-	JOptionPane.showInputDialog(null,"Your a code ninja! good job :)");
+	JOptionPane.showMessageDialog(null,"Your a code ninja! good job :)");
 }
 	// 4. If it is more than 5, call the method below to play the Batman theme song.
 	// NOTE: You may have to get batman.wav from league-sounds on github: https://github.com/jointheleague/league-sounds

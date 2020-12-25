@@ -50,26 +50,87 @@ public static void main(String[] args) {
 	Robot bob6 = new Robot();
 	bob6.setX(221);
 	Robot bob7 = new Robot();
-	bob7.setX(221);
+	bob7.setX(222);
 	Robot bob8 = new Robot();
-	bob8.setX(221);
+	bob8.setX(223);
+	Robot bob9 = new Robot();
+	bob9.setX(224);
+	Robot bob10 = new Robot();
+	bob10.setX(225);
+	Robot bob11 = new Robot();
+	bob11.setX(226);
+	Robot bob12 = new Robot();
+	bob12.setX(227);
+	Robot bob13 = new Robot();
+	bob13.setX(228);
+	Robot bob14 = new Robot();
+	bob14.setX(229);
+	Robot bob15 = new Robot();
+	bob15.setX(230);
+	Robot bob16 = new Robot();
+	bob16.setX(231);
+	Robot bob17 = new Robot();
+	bob17.setX(232);
+	Robot bob18 = new Robot();
+	bob18.setX(233);
+	Robot bob19 = new Robot();
+	bob19.setX(234);
+	Robot bob20 = new Robot();
+	bob20.setX(235);
+	Robot bob21 = new Robot();
+	bob21.setX(236);
+	Robot bob22 = new Robot();
+	bob22.setX(237);
+	Robot bob23 = new Robot();
+	bob23.setX(238);
+	Robot bob24 = new Robot();
+	bob24.setX(239);
+	Robot bob25 = new Robot();
+	bob25.setX(240);
+	Robot bob26 = new Robot();
+	bob26.setX(241);
+	Robot bob27 = new Robot();
+	bob27.setX(242);
+	Robot bob28 = new Robot();
+	bob28.setX(243);
+	Robot bob29 = new Robot();
+	bob29.setX(244);
+	Robot bob30 = new Robot();
+	bob30.setX(245);
+	Robot bob31 = new Robot();
+	bob31.setX(246);
+	Robot bob32 = new Robot();
+	bob32.setX(247);
+	Robot bob33 = new Robot();
+	bob33.setX(248);
+	Robot bob34 = new Robot();
+	bob34.setX(249);
+	Robot bob35 = new Robot();
+	bob35.setX(250);
+	Robot bob36 = new Robot();
+	bob36.setX(251);
+	Robot bob37 = new Robot();
+	bob37.setX(252);
+	Robot bob38 = new Robot();
+	bob38.setX(253);
+	Robot bob39 = new Robot();
+	bob39.setX(254);
+	Robot bob40 = new Robot();
+	bob40.setX(255);
+	Robot bob41 = new Robot();
+	bob41.setX(256);
+	Robot bob42 = new Robot();
+	bob42.setX(257);
+	Robot bob43 = new Robot();
+	bob43.setX(258);
+	Robot bob44 = new Robot();
+	bob44.setX(259);
+	Robot bob45 = new Robot();
+	bob45.setX(260);
 	
 
 
 
-miles.setSpeed(1000000000);
-	miles.move(100);
-	miles.penDown();
-for (int i = 0; i < 1000000000; i++) {
-for (int j = 0; j < 1000000000; j++) {
-for (int l = 0; l < 1000000000; l++) {
-for (int k = 0; k < 1000000000; k++) {
-	miles.turn(1);
-	miles.move(40);	
-}	
-}		
-}		
-}
 
 
 
