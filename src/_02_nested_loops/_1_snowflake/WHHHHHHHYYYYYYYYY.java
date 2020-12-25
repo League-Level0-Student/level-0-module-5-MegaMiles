@@ -5,7 +5,7 @@ import org.jointheleague.graphical.robot.Robot;
 public class WHHHHHHHYYYYYYYYY {
 public static void main(String[] args) {
 Robot rob = new Robot();	
-rob.changeRobot(im);
+rob.move(100);
 
 
 
